@@ -10,10 +10,10 @@ Open `index.html` in a modern browser, or serve this directory with any static w
 
 - Practice-session logging, editing, deletion, search, and court-surface filters.
 - Match logging with win/loss summaries, editing, deletion, and history filters.
-- Eight skill progression levels saved per skill.
+- Skill progression tracking for all requested categories.
 - Daily practice goal and seven-day practice chart.
-- Player profile name and a local community journal with post deletion.
-- Curated external tennis video searches and instruction resources.
+- Smart training recommendations based on saved data.
+- Player profile name, local community journal, and export/reset tools.
 - Responsive dashboard for desktop and mobile layouts.
 
 ## Data and privacy
